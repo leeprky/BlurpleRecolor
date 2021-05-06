@@ -1,9 +1,8 @@
 {
-    "name": "Lode",
-    "description": "Animated/Bubbly Theme w/ Lots of customisation",
+    "name": "BlurpleRecolor",
+    "description": "Replaces Blurple & BetterDiscord Blue",
     "version": "1.0",
     "author": "Leeprky#2063",
-    "splashTheme": "splash.css",
     "license": "MIT",
-    "theme": "lode-config.css"
+    "theme": "blurple-config.css"
 }
