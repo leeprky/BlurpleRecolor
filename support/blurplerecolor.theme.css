@@ -1,0 +1,26 @@
+/**
+ * @name BlurpleRecolor
+ * @author Leeprky#2063
+ * @version 1.0
+ * @description Replaces Blurple & BetterDiscord Blue
+ * @source https://github.com/leeprky/BlurpleRecolor
+*/  
+
+/*  ------------------------------------------
+                 Blurple Colour
+                    Config
+                     v1.0
+    ------------------------------------------  */
+
+    /* Source Import */
+@import url();
+
+    /* Colors */
+.theme-dark, .theme-light {
+  --alt-color-rgb: 114, 137, 218;
+  --alt-color-hex: #7289DA;
+
+   /* BetterDiscord */
+   --bd-color: #7289DA;
+   --bd-color-hover: #5c6fb3;
+}

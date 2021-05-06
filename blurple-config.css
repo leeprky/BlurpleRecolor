@@ -1,0 +1,16 @@
+  
+/*  ------------------------------------------
+                 Blurple Colour
+                    Config
+                     v1.0
+    ------------------------------------------  */
+
+    /* Source Import */
+@import url();
+
+
+    /* Colors */
+.theme-dark, .theme-light {
+  --alt-color-rgb: 114, 137, 218;
+  --alt-color-hex: #7289DA;
+}
