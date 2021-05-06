@@ -91,3 +91,8 @@
     .button-gP4R86:hover{background-color:var(--alt-color-rgb2)}
     .buttonContainer-3mRVAA.selected-iN3sEO{background-color:var(--alt-color-rgb2)}
     .listDefault-3ir5aS .clickable-1lCRLF.selected-3t3Csj .username-3KYl0N,.usernameSpeaking-RmltQx{color:var(--alt-color-rgb2)}
+
+    /* Bd Blue */
+    .bd-button,.bd-server-tag,.bd-addon-views .bd-view-button.selected{background-color:var(--bd-color)}
+    .bd-button:hover{background-color:var(--bd-color-hover)}
+    #bd-pub-button:hover{background-color:var(--bd-color-hover)}
